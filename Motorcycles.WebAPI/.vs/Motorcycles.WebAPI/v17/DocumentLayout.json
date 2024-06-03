@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|solutionrelative:motorcycles\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|c:\\users\\dinor\\documents\\mono-webapi-postgres-motorcycles\\motorcycles.webapi\\motorcycles\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|solutionrelative:motorcycles\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|c:\\users\\dinor\\documents\\mono-webapi-postgres-motorcycles\\motorcycles.webapi\\motorcycles\\tables\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|solutionrelative:motorcycles\\tables\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|c:\\users\\dinor\\documents\\mono-webapi-postgres-motorcycles\\motorcycles.webapi\\motorcycles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|solutionrelative:motorcycles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|c:\\users\\dinor\\documents\\mono-webapi-postgres-motorcycles\\motorcycles.webapi\\motorcycles\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED09619-28FA-4D21-854C-5283937614D5}|Motorcycles\\Motorcycles.csproj|solutionrelative:motorcycles\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 178,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\appsettings.json",
+              "RelativeDocumentMoniker": "Motorcycles\\appsettings.json",
+              "ToolTip": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\appsettings.json",
+              "RelativeToolTip": "Motorcycles\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T18:58:49.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\Tables\\User.cs",
               "RelativeDocumentMoniker": "Motorcycles\\Tables\\User.cs",
               "ToolTip": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\Tables\\User.cs",
               "RelativeToolTip": "Motorcycles\\Tables\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:23:37.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T18:23:37.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\Tables\\Motorcycle.cs",
               "RelativeDocumentMoniker": "Motorcycles\\Tables\\Motorcycle.cs",
               "ToolTip": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\Tables\\Motorcycle.cs",
               "RelativeToolTip": "Motorcycles\\Tables\\Motorcycle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:22:58.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T18:22:58.692Z"
             },
             {
               "$type": "Document",
@@ -62,7 +76,7 @@
               "RelativeDocumentMoniker": "Motorcycles\\Controllers\\MotorcycleController.cs",
               "ToolTip": "C:\\Users\\dinor\\Documents\\MONO-WebAPI-Postgres-Motorcycles\\Motorcycles.WebAPI\\Motorcycles\\Controllers\\MotorcycleController.cs",
               "RelativeToolTip": "Motorcycles\\Controllers\\MotorcycleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAD4v1MAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T18:18:02.796Z",
               "EditorCaption": ""
